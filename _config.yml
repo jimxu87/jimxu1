@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: xu
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: Jim Xu
 language: en
 timezone: ''
 
@@ -93,7 +93,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: clover
+theme: chi
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
